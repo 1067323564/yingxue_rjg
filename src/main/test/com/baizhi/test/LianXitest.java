@@ -26,5 +26,6 @@ public class LianXitest {
         LianXi admin = lianXiDao.login("admin");
         System.out.println(admin);
         System.out.println("我来了");
+        soutem.out.println("aaaaa");
     }
 }
